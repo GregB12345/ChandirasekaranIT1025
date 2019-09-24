@@ -10,9 +10,14 @@ What is an interpreted language vs. a compiled language?
 
 ## Career Exploration
 
+#### College Central
+
 #### Certifications
+######Certificates and Degrees
 
 #### Career Explorations
-
 ###### Co-ops/Internships
 
+#### Industry Associations / Student Organizations
+
+## Conclusion
