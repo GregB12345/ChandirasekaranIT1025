@@ -1,9 +1,9 @@
 
-## Executive Summary
+# Executive Summary
 
 Write up as though you are explaining this week's lab to others.
 
-## Software
+# Software
 Explain the roles of application, utility and operating system software.  Give an example of each. 
  
 
@@ -13,7 +13,7 @@ Explain the purpose of ERP software and provide an example.
 Explain the purpose of virtualization and describe how it differs from cloud computing. 
 
 
-## Virtualization
+# Virtualization
 What types of problems are solved with virtualization? 
  
 
@@ -24,6 +24,6 @@ a) Continue learning about virtualization or
 b) Request a virtual machine and try it out
 Remember to upload screenshot as VirtualMachineOptionA or VirtualMachineOptionB to this folder.
 
-## Conclusion
+# Conclusion
 
 Summary of your understanding from this week's lab
