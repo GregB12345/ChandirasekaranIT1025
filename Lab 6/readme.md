@@ -10,9 +10,9 @@ What is an interpreted language vs. a compiled language?
 
 ## Career Exploration
 
-Certifications
+#### Certifications
 
-Career Explorations
+#### Career Explorations
 
-Co-ops/Internships
+###### Co-ops/Internships
 
