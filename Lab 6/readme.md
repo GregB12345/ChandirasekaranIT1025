@@ -1,23 +1,23 @@
 
-## Executive Summary
+# Executive Summary
 Write your executive summary here
 
-## Python
+# Python
 
 What is meant by the "pseudo-code nature of Python?" (Google "pseudo-code" to gain better insight) 
 
 What is an interpreted language vs. a compiled language? 
 
-## Career Exploration
+# Career Exploration
 
-#### College Central
+## College Central
 
-#### Certifications
-######Certificates and Degrees
+## Certifications
+#### Certificates and Degrees
 
-#### Career Explorations
-###### Co-ops/Internships
+## Career Explorations
+#### Co-ops/Internships
 
-#### Industry Associations / Student Organizations
+## Industry Associations / Student Organizations
 
-## Conclusion
+# Conclusion
