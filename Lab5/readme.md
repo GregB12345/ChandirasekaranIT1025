@@ -1,7 +1,7 @@
 
 ## Executive Summary
 
-Include your executive summary here...
+Write up as though you are explaining this week's lab to others.
 
 ## Software
 Explain the roles of application, utility and operating system software.  Give an example of each. 
@@ -25,4 +25,5 @@ b) Request a virtual machine and try it out
 Remember to upload screenshot as VirtualMachineOptionA or VirtualMachineOptionB to this folder.
 
 ## Conclusion
-Include your professional conclusion here...
+
+Summary of your understanding from this week's lab
