@@ -24,14 +24,5 @@ a) Continue learning about virtualization or
 b) Request a virtual machine and try it out
 Remember to upload screenshot as VirtualMachineOptionA or VirtualMachineOptionB to this folder.
 
-## Python
-
-## Career Exploration
-College Central
-Certifications
-Certificates and Degrees
-Co-ops / Internships
-Industry Associations / Student Organizations
-
 ## Conclusion
 Include your professional conclusion here...
