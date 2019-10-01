@@ -3,6 +3,7 @@
 Write your executive summary here
 
 # Python
+Upload python1 and python2 screenshots to github
 
 What is meant by the "pseudo-code nature of Python?" (Google "pseudo-code" to gain better insight) 
 
