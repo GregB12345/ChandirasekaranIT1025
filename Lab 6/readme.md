@@ -21,9 +21,12 @@ Take some time to explore the resource and report your findings.
 
 Explore ONE certification from those listed below and report your findings.  These certification tests can be taken at 1/2 the cost through Tri-C vouchers. 
 
-COMPTIA https://certification.comptia.org/certifications/cybersecurity-analyst
-CISCO https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html
-CISSP https://www.isc2.org/Certifications/CISSP
+COMPTIA:
+https://certification.comptia.org/certifications/cybersecurity-analyst
+CISCO:
+https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html
+CISSP:
+https://www.isc2.org/Certifications/CISSP
  
 #### Certificates and Degrees
 Explore the certificates in https://www.tri-c.edu/programs/information-technology/index.html and report your findings
