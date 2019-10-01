@@ -14,22 +14,22 @@ What is an interpreted language vs. a compiled language?
 
 Traverse to the following site: https://www.collegecentral.com/tri-c/ and register for a student account.   
 Search for "Intern - Central"
-Take some time to explore the resource and report your findings. 
-
+1. Take some time to explore the resource and report your findings. 
+2. Take a screenshot of your search, name it CollegeCentral and upload to the Lab 6 folder.
 
 ## Certifications
 
-Explore ONE certification from those listed below and report your findings.  These certification tests can be taken at 1/2 the cost through Tri-C vouchers. 
+Explore ONE certification from those listed below and report your findings.  These certification tests can be taken at 1/2 the cost through Tri-C vouchers.
 
-COMPTIA:
+1. COMPTIA:
 https://certification.comptia.org/certifications/cybersecurity-analyst
-CISCO:
+2. CISCO:
 https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html
-CISSP:
+3. CISSP:
 https://www.isc2.org/Certifications/CISSP
  
 #### Certificates and Degrees
-Explore the certificates in https://www.tri-c.edu/programs/information-technology/index.html and report your findings
+Explore the certificates in https://www.tri-c.edu/programs/information-technology/index.html and report your findings on one certificate of interest.
 
 ## Career Explorations
 Traverse to: https://www.bls.gov/ooh/occupation-finder.htm and continue exploring careers in IT (or your area of interest.) Add a report of your findings here.
@@ -50,5 +50,6 @@ https://www.acm.org/
 
 3. IEEE https://www.ieee.org/
  
+(Other organizations can be found here https://www.tri-c.edu/student-life/student-clubs/index.html)
 
 # Conclusion
