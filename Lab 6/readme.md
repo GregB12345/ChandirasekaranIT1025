@@ -48,7 +48,7 @@ https://www.nationalccdc.org/index.php/competition/about-ccdc/mission
 2. ACM-W: A student chapter of ACM. Please contact Professor Vinita Tiralapuram (Vinita.Tiralapuram@tri-c.edu) or Kathleen Tamerlano (Kathleen.Tamerlano@tri-c.edu) for additional information. 
 https://www.acm.org/
 
-IEEE https://www.ieee.org/
+3. IEEE https://www.ieee.org/
  
 
 # Conclusion
